@@ -1,0 +1,7 @@
+product_id,product_name,category,price_tier,base_price
+P01,product_a,core,tier_1,49.99
+P02,product_b,core,tier_1,52.5
+P03,product_c,premium,tier_2,74.0
+P04,product_d,premium,tier_2,68.25
+P05,product_e,value,tier_0,32.4
+P06,product_f,value,tier_0,29.75

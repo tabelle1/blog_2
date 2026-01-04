@@ -1,0 +1,7 @@
+customer_id,customer_name,region,segment
+C01,customer_a,north,digital
+C02,customer_b,north,digital
+C03,customer_c,south,enterprise
+C04,customer_d,south,enterprise
+C05,customer_e,central,consumer
+C06,customer_f,central,consumer
